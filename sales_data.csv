@@ -1,0 +1,11 @@
+OrderID,Date,Region,Product,Category,Quantity,Price,Customer
+1001,2023-01-05,North,Laptop,Electronics,2,50000,Amit
+1002,2023-01-10,South,Mobile,Electronics,3,20000,Ravi
+1003,2023-01-15,East,Tablet,Electronics,1,30000,Neha
+1004,2023-02-01,West,Headphones,Accessories,5,2000,Priya
+1005,2023-02-10,North,Mouse,Accessories,10,500,Anil
+1006,2023-03-12,South,Laptop,Electronics,1,50000,Kiran
+1007,2023-03-18,East,Mobile,Electronics,2,20000,Meena
+1008,2023-04-02,West,Keyboard,Accessories,4,1500,Arjun
+1009,2023-04-15,North,Monitor,Electronics,2,15000,Sneha
+1010,2023-05-05,South,Tablet,Electronics,3,30000,Deepak
